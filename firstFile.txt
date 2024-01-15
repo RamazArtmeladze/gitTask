@@ -2,9 +2,9 @@ Line 1
 Line 2
 Modified Line 3 for git_1
 Line 4
-Line 5
+Modified Line 5 for git_1
 Line 6
 Modified Line 7 for git_1
 Line 8
-Line 9
+Modified Line 9 for git_1
 Line 10
