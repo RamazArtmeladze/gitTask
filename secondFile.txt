@@ -4,7 +4,7 @@ Line C
 Line D
 Line E
 Line F
-Line G
-Line H
+Updated Line G for git_1
+Updated Line H for git_1
 Line I
 Line J
