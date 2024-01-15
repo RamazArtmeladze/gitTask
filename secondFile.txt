@@ -1,10 +1,4 @@
-Line A
-Line B
-Line C
-Line D
-Line E
-Line F
 Updated Line G for git_1
 Updated Line H for git_1
-Line I
-Line J
+Updated Line G
+Updated Line H
