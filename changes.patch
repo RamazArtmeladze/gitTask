@@ -1,0 +1,29 @@
+From c1a7e878705192ef251159a0384840ec5a19ccd2 Mon Sep 17 00:00:00 2001
+From: Ramaz Artmeladze <ramaz.artmeladze@outlook.com>
+Date: Tue, 16 Jan 2024 03:26:12 +0400
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..a24d8aa 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ Line 1
+ Line 2
+-Line 3
++Modified Line 3 for git_1
+ Line 4
+ Line 5
+ Line 6
+-Line 7
++Modified Line 7 for git_1
+ Line 8
+ Line 9
+ Line 10
+-- 
+2.37.2.windows.2
+
